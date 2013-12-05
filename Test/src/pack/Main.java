@@ -6,6 +6,7 @@ public class Main {
 		Class myclass = new Class();
 		
 		myclass.foo();
+		System.out.println("fin");
 
 	}
 
