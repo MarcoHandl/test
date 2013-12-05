@@ -8,6 +8,7 @@ public class Main {
 		myclass.foo();
 		System.out.println("fin");
 		System.out.println("finfin");
+		System.out.println("finfinfin");
 
 	}
 
