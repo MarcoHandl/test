@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("fin");
 		System.out.println("finfin");
 		System.out.println("finfinfin");
+		System.out.println("finfinfinfin");
 
 	}
 
